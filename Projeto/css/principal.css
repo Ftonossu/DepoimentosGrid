@@ -1,0 +1,10 @@
+.principal {
+    display: grid;
+    margin: 100px 100px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
+}
+body{
+    background-color: hsl(210, 46%, 92%);
+}
