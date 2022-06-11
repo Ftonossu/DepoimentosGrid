@@ -1,0 +1,16 @@
+.pessoa__nome1{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #fdfdfd;
+    font-weight: 500;
+    font-size: 0.8rem;
+    margin-left: 5px;
+    margin-top: 2.5px;
+}
+.pessoa__nome2{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 0.8rem;
+    margin-left: 5px;
+    margin-top: 2.5px;
+}
