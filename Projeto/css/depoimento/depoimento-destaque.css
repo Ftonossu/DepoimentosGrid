@@ -1,0 +1,14 @@
+.depoimento__destaque1 {
+    font-size: 18px;
+    color: hsl(0, 0%, 81%);
+    font-weight: 600;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding: 5px 20px;
+}
+.depoimento__destaque2 {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding: 5px 20px;
+}
