@@ -1,11 +1,26 @@
 .principal {
     display: grid;
-    margin: 50px 100px;
+    margin: 50px auto;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     height: 500px;
+    width: 70%;
     
 }
 body{
     background-color: hsl(210, 46%, 92%);
+}
+@media screen and (min-width: 0) {
+    .principal{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 968px) {
+    .principal{
+        display: grid;
+        margin: 50px auto;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
 }
