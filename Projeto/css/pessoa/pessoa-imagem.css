@@ -1,32 +1,32 @@
 .pessoa__imagem{
-    width: 25px;
-    height: 25px;
     border: 1px solid #fdfdfd;
+    height: 25px;
+    width: 25px;
 
 }
 
 .pessoa--daniel{
     background-image: url(../../images/image-daniel.jpg);
-    background-size: contain;
     border-radius: 50%;
+    background-size: contain;
 }
 .pessoa--jonathan{
     background-image: url(../../images/image-jonathan.jpg);
-    background-size: contain;
     border-radius: 50%;
+    background-size: contain;
 }
 .pessoa--jeanette{
     background-image: url(../../images/image-jeanette.jpg);
-    background-size: contain;
     border-radius: 50%;
+    background-size: contain;
 }
 .pessoa--patrick{
     background-image: url(../../images/image-patrick.jpg);
-    background-size: contain;
     border-radius: 50%;
+    background-size: contain;
 }
 .pessoa--kira{
     background-image: url(../../images/image-kira.jpg);
-    background-size: contain;
     border-radius: 50%;
+    background-size: contain;
 }

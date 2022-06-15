@@ -1,9 +1,9 @@
 .pessoa {
-    width: 100px;
-    height: 40px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    height: 40px;
     margin-left: 20px;
     margin-top: 20px;
+    width: 100px;
 }

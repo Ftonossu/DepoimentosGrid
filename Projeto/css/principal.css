@@ -3,7 +3,7 @@
     margin: 50px auto;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    height: 500px;
+    
     width: 70%;
     
 }
@@ -16,11 +16,19 @@ body{
         flex-direction: column;
     }
 }
-@media screen and (min-width: 968px) {
+@media screen and (min-width: 768px) {
     .principal{
         display: grid;
         margin: 50px auto;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr;
+        width: 90%;
+        height: 700px;
+    }
+}
+@media screen and (min-width: 1278px) {
+    .principal{
+        width: 70%;
+        height: 500px;
     }
 }

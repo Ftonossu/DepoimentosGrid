@@ -1,13 +1,13 @@
 .depoimento__descricao1 {
-    font-size: 13px;
     color: hsl(0, 0%, 81%);
     font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
     padding: 15px 20px;
 }
 .depoimento__descricao2 {
-    font-size: 13px;
     color: black;
     font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
     padding: 15px 20px;
 }
 @media screen and (min-width: 0) {
@@ -20,23 +20,4 @@
 
     }
 }
-@media screen and (min-width: 968px) {
-    .depoimento__descricao1{
-        font-size: 11px;
 
-    } 
-    .depoimento__descricao2{
-
-        font-size: 11px;
-    }
-}
-@media screen and (min-width: 1142px) {
-    .depoimento__descricao1{
-        font-size: 13px;
-
-    } 
-    .depoimento__descricao2{
-
-        font-size: 13px;
-    }
-}
